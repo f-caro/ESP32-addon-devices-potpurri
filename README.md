@@ -11,9 +11,9 @@ Testing additional addon devices, and their micropython working scripts
 <a name="ethernet"></a>
 # Ethernet PHY_LAN8720
 
-### TODO: describe how the LAN8720 chip works
+### TODO: describe how the LAN8720 chip is used
 
 <a name="oled_display_tiny"></a>
 # OLED tiny display with SSD1306 controller
 
-### TODO:  elaborate on how the OLED tiny display works
+### TODO:  elaborate on how the OLED tiny display is used
